@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Parekh</h1>
-<h3 align="center">A Full Stack Developer and AWS Novice</h3>
+<h3 align="center">A WordPress developer and tech enthusiast.</h3>
 
 - 🔭 I’m currently working at [Wisdmlabs](https://wisdmlabs.com/)
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 Explore my portfolio [here](http://ankitparekh.in/)
-
-- 📄 Unlock My Professional Journey: [Access My Resume Now](https://ankitparekh.in/wp-content/uploads/2024/02/Resume.pdf)
+- 📄 Unlock My Professional Journey: [Access My Resume Now](https://drive.google.com/file/d/1VBymT0KlUKjIxe_79sN6LMUkbkWc2h7r/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
