@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working at [Wisdmlabs](https://wisdmlabs.com/)
 
-- 📄 Unlock My Professional Journey: [Access My Resume Now](https://drive.google.com/file/d/1VBymT0KlUKjIxe_79sN6LMUkbkWc2h7r/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
